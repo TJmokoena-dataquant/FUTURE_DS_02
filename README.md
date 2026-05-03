@@ -26,4 +26,5 @@ Power BI for data exploration and insight generation
 Excel/CSV as the data source
 
 Conclusion:
+
 This project demonstrates how raw customer subscription data can be transformed into meaningful insights that highlight the drivers of churn and retention. By identifying patterns related to billing behavior, subscription changes, and customer engagement, the analysis provides a foundation for improving customer experience and reducing churn. These insights can support businesses in making informed decisions to enhance retention strategies, optimize revenue, and build long-term customer relationships.
